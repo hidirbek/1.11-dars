@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.div{
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  background-color: green;
+}
+.pink-div:hover{
+  background-color: purple;
+}
+.gold-div:hover{
+  background-color: gold;
+}
